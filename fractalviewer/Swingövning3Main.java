@@ -8,3 +8,5 @@ public class Swingövning3Main {
 	}
 
 }
+
+//Hej på dej din gamla grek, detta är ett test för att lära mig hur git funkar//
